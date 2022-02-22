@@ -233,7 +233,7 @@ const portfolioData = [
    {
       title: `열정공`,
       subtitle: '기술교육 검색 서비스',
-      description: ``,
+      description: `기술을 배우는 과정에서 생기는 불편함을 해소하고, 더 빠르게 비교하고 제대로 배울 수 있는 기회를 제공하는 기술교육 검색 서비스입니다. 반응형으로 제작되었으며 지역별 업체 등록 및 교육과정 신청이 가능합니다.`,
       scopes: ['Development'],
       skills: ['React.js', 'Next.js', 'Node.js', 'Express', 'MySQL'],
       categories: ['Client', 'Admin'],
@@ -243,7 +243,7 @@ const portfolioData = [
    {
       title: `팸하우스`,
       subtitle: '위치기반 쉐어하우스 검색 서비스',
-      description: ``,
+      description: `온라인 쉐어하우스 검색 서비스입니다. 위치 기반 검색으로 사용자가 원하는 지역의 입주 가능 쉐어하우스를 빠르고 편리하게 검색하고 신청할 수 있습니다. 반응형으로 제작되었으며 관리자페이지에서 업체, 지점, 문의사항, 입주신청 등을 관리할 수 있습니다.`,
       scopes: ['Development'],
       skills: ['HTML', 'CSS', 'Javascript', 'Node.js', 'Express', 'MySQL'],
       categories: ['Client', 'Admin'],
