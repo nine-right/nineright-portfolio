@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nineright-portfolio/static/css/main.4f1da945.css",
-    "main.js": "/nineright-portfolio/static/js/main.fdf87cec.js",
+    "main.js": "/nineright-portfolio/static/js/main.05a2ea3f.js",
     "static/media/Pretendard-SemiBold.woff2": "/nineright-portfolio/static/media/Pretendard-SemiBold.77dc78f65aa11d9abc37.woff2",
     "static/media/Pretendard-Medium.woff2": "/nineright-portfolio/static/media/Pretendard-Medium.59b075f096b9d3f4d25e.woff2",
     "static/media/Pretendard-Regular.woff2": "/nineright-portfolio/static/media/Pretendard-Regular.0c7ef87f67b575118ed9.woff2",
     "index.html": "/nineright-portfolio/index.html",
     "main.4f1da945.css.map": "/nineright-portfolio/static/css/main.4f1da945.css.map",
-    "main.fdf87cec.js.map": "/nineright-portfolio/static/js/main.fdf87cec.js.map"
+    "main.05a2ea3f.js.map": "/nineright-portfolio/static/js/main.05a2ea3f.js.map"
   },
   "entrypoints": [
     "static/css/main.4f1da945.css",
-    "static/js/main.fdf87cec.js"
+    "static/js/main.05a2ea3f.js"
   ]
 }
