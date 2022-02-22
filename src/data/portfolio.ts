@@ -218,7 +218,7 @@ const portfolioData = [
       skills: ['React Native'],
       categories: ['Client'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `라바웨이브 정보보호, IT 기술 블로그 콘텐츠 제작`,
@@ -228,7 +228,7 @@ const portfolioData = [
       skills: [],
       categories: [],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `열정공`,
@@ -238,7 +238,7 @@ const portfolioData = [
       skills: ['React.js', 'Next.js', 'Node.js', 'Express', 'MySQL'],
       categories: ['Client', 'Admin'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `팸하우스`,
@@ -248,7 +248,7 @@ const portfolioData = [
       skills: ['HTML', 'CSS', 'Javascript', 'Node.js', 'Express', 'MySQL'],
       categories: ['Client', 'Admin'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `국가평생교육진흥원 성인정보문해능력 테스트 어플리케이션`,
@@ -258,7 +258,7 @@ const portfolioData = [
       skills: ['HTML', 'CSS', 'Javascript', 'Cordova'],
       categories: ['Client'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `차량 도어 개폐 센서 신호 모니터링 소프트웨어`,
@@ -268,7 +268,7 @@ const portfolioData = [
       skills: ['PyQT5'],
       categories: ['Client', 'Serial Connect'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `모바일 게임 닌자대전 마케팅 클라이언트`,
@@ -278,7 +278,7 @@ const portfolioData = [
       skills: ['HTML', 'Javascript', 'Phaser3'],
       categories: ['Client', 'Web Game'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `네트워크 포렌식을 위한 패킷 덤프파일 분석 서비스`,
@@ -288,7 +288,7 @@ const portfolioData = [
       skills: ['HTML', 'CSS', 'Javascript', 'Python', 'PHP'],
       categories: ['Client', 'Server'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `인공지능을 활용한 성적예측 시스템`,
@@ -298,7 +298,7 @@ const portfolioData = [
       skills: ['Python', 'Tensorflow'],
       categories: ['Client', 'Server'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `CSR Bluetooth Board의 신호전송 매커니즘 연구개발`,
@@ -308,7 +308,7 @@ const portfolioData = [
       skills: ['CSR Bluetooth Framework'],
       categories: ['Research'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    },
    {
       title: `수강신청 알림 서비스 제공방법 및 시스템(특허 등록 1014928080000)`,
@@ -318,7 +318,7 @@ const portfolioData = [
       skills: ['PHP', 'Sencha Touch2'],
       categories: ['Research', 'Client', 'Server'],
       thumbnail: '',
-      slideImages: ['']
+      slideImages: []
    }
 ];
 
