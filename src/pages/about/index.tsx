@@ -14,7 +14,7 @@ const Container = styled.div`
 
 const ImageBanner = styled.div`
    height: 300px;
-   background-image: url('/nineright-portfolio/images/banner.png');
+   background-image: url('/images/banner.png');
    background-size: cover;
    background-position: center;
    @media only screen and (max-width: 1000px) {

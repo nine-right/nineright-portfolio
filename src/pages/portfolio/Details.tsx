@@ -204,9 +204,9 @@ const PortfolioDetails = () => {
                }}
             >
                {(data && data.slideImages.length) ? 
-                  data?.slideImages.map((image, idx) => <SwiperSlide key={image} style={{ backgroundImage: `url(/nineright-portfolio/images/portfolio/slide/${image})` }} />) :
+                  data?.slideImages.map((image, idx) => <SwiperSlide key={image} style={{ backgroundImage: `url(/images/portfolio/slide/${image})` }} />) :
                   <SwiperSlide style={{
-                     backgroundImage: `url(/nineright-portfolio/images/thumbnail_default.png)`,
+                     backgroundImage: `url(/images/thumbnail_default.png)`,
                      backgroundSize: 'contain',
                      backgroundColor: '#0094ff',
                      backgroundRepeat: 'no-repeat'

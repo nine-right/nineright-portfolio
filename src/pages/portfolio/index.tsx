@@ -70,8 +70,8 @@ const Portfolio = () => {
                   key={idx}
                   style={{ 
                      backgroundImage: d.thumbnail ?
-                        `url(/nineright-portfolio/images/portfolio/thumbnail/${d?.thumbnail})` :
-                        `url(/nineright-portfolio/images/thumbnail_default.png)`
+                        `url(/images/portfolio/thumbnail/${d?.thumbnail})` :
+                        `url(/images/thumbnail_default.png)`
                   }}
                >
                   <div className="title">{d?.title}</div>
